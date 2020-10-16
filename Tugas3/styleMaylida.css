@@ -1,0 +1,31 @@
+body {
+  background-color: AntiqueWhite;  
+}
+
+h1 {
+  color: #cc006d; 
+  font-size: 30px; 
+  text-align: left; 
+  margin-top: 5px; 
+  margin-right: 80px;
+  margin-left: 20px;
+}
+
+h2 {
+	color: DeepPink; 
+	margin-right: 80px;
+ 	margin-left: 20px; 
+}
+
+p {
+  color : #db5224; 
+  font-family: verdana;
+  font-size: 16px;  
+  margin-right: 700px; 
+  margin-left: 20px;  
+}
+
+ol {
+  color : Magenta;
+  font-size: 25px; 
+}
